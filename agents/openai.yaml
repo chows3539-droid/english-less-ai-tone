@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Less AI Tone"
+  short_description: "Direct, natural English that preserves your meaning"
+  default_prompt: "Use $english-less-ai-tone to edit this English draft, preserving its facts, qualifications, citations, structure, and level of formality."
